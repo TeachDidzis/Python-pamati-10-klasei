@@ -1,0 +1,1 @@
+# Python-pamati-10-klasei
