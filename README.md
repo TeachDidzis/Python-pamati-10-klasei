@@ -1,4 +1,5 @@
 # Python-pamati-10-klasei
+"""
 Koda veidošana pēc specifikācijas dokumenta:
 a.	Kas ir specifikācijas dokuments?
 b.	Piemēri dažādiem specifikācijas dokumentiem
@@ -20,3 +21,4 @@ c. Ievads datu bāzēs
 Praktiskais darbs:
 a. Programmas specifikācijas izveide atbilstoši dotai problēmai;
 b. Risinājuma izveide pēc veidotā specifikācijas dokumenta.
+"""
