@@ -1,10 +1,10 @@
 # Python-pamati-10-klasei
 
 # Koda veidošana pēc specifikācijas dokumenta:
-a.	Kas ir specifikācijas dokuments?
-b.	Piemēri dažādiem specifikācijas dokumentiem
-c.	Ievads GitHub versiju vadības sistēmā, repozitoriju veidošana un dublēšana datorā;
-d.	Koda veidošana pēc dota specifikācijas dokumenta
+Kas ir specifikācijas dokuments?
+Piemēri dažādiem specifikācijas dokumentiem
+Ievads GitHub versiju vadības sistēmā, repozitoriju veidošana un dublēšana datorā;
+Koda veidošana pēc dota specifikācijas dokumenta
 
 # Programmēšanas projekts:
 # a. Kas ir programmēšanas projekts?
