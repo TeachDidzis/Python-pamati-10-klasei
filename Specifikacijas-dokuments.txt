@@ -1,0 +1,25 @@
+Dokuments, kas apraksta programmatūras darbību un funkcionalitāti.
+
+Piemērs:
+
+Specifikācija vērtību meklēšana
+
+1. Ievads
+  Izveidot programmu, kurā lietotājs var ievadīt 10 skaitļus, nospiež pogu un
+  programma atrod mazāko un lielāko ievadīto skaitli.
+
+2. Dati
+  Jebkuršs vesels vai decimālskaitlis
+
+3. Funkcionalitāte
+  Paprasa lietotājam ievadīt 10 secīgus skaitļus;
+  Nolasa ievadīto skaitļu vērtības, ievieto tās datu masīvā
+  Veic skaitļu pārbaudi un atrod mazāko un lielāko vērtību datu masīvā
+
+4. Papildus
+  Komentēt koda struktūras par to darbību
+
+5. Testēšana
+  Testēt programmas darbību ar pozitīviem skaitļiem;
+  Testēt programmas darbību ar negatīviem skaitļiem;
+  Testēt programmas darbību ar ne skaitliskām vērtībām;
