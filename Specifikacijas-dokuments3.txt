@@ -1,0 +1,36 @@
+Programmēšanas specifikācija: Laika atskaite
+
+1. Problēma:
+Izveidojiet vienkāršu lietojumprogrammu, kas veic laika atskaiti no 10 minūtēm, jābūt iespējai sākt laika atskaiti un pauzēt laika atskaiti.
+
+2. Ievades vērtības:
+- nav
+
+3. Izvade:
+- Laika atskaite intervālā reizi sekundē.
+
+4. Funkcionalitāte:
+- Izveidots bloks, kura sākuma vērtība ir 10:00.
+- Nospiežot uz bloka, palaiž intervālu, kas reizi sekundē samazina sekundes vērtību;
+- Kad sekundes vērtība ir 0, samazina minūtes vērtību un sekundes vērtība atgriežas uz 60;
+- Izveidota poga, kas aptur intervālu, saglabā esošās minūšu un sekunžu vērtības;
+- Izveidota poga, kas atsāk laika skaitīšanas intervālu no iepriekš saglabātajām vērtībām.
+
+5. Īstenošana:
+- Izmantojiet atbilstošas ​​funkcijas/metodes programmas darbībai ( intervāls, IF, notikumu klausītāji, mainīgie, HTML izvade);
+- Izveidot bloku un 2 pogas, katram elementam ir savs notikums;
+- Izmantot jēgpilnus nosaukumus, kas paskaidro darbību;
+
+6. Ievades/izejas paraugs:
+
+
+7. Papildu prasības:
+- Nodrošiniet, lai programma būtu labi dokumentēta ar komentāriem, kas izskaidro katras
+koda sadaļas mērķi.
+- Ievērojiet koda lasāmības un struktūras paraugpraksi.
+
+8. Pārbaude:
+- Pārbaudiet programmu, palaižot un pauzējot laika atskaiti dažādos brīžos.
+
+9. Iesniegšana:
+- Iesniedziet avota kodu.
