@@ -9,7 +9,7 @@ Specifikācija vērtību meklēšana
   programma atrod mazāko un lielāko ievadīto skaitli.
 
 2. Dati
-  Jebkuršs vesels vai decimālskaitlis
+  Jebkurš vesels vai decimālskaitlis
 
 3. Funkcionalitāte
   Paprasa lietotājam ievadīt 10 secīgus skaitļus;
